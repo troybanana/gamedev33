@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @troybanana
+- 👋 Hi, I’m @gamedev33
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning c#
   
